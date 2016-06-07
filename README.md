@@ -1,4 +1,4 @@
-# php-gcm Server for sending Push Notification 
+# php-gcm Server for sending Android Notification 
 
 It is using GCM Server. 
 You need Server API key and Application Token to use. 
