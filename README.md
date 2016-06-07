@@ -1,1 +1,1 @@
-# server_pushnotification_gcm
+# php-gcm Server for Pushnotification
